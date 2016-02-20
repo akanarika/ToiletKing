@@ -1,0 +1,1 @@
+Load all resource-based binary files in this folder to prevent commit to git.
